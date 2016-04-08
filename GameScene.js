@@ -1,6 +1,9 @@
 /**
  * Created by student on 16/3/9.
  */
+ /*
+ gaibiann a 
+ */
 var GameLayer = cc.Layer.extend({
     ctor:function()
     {
